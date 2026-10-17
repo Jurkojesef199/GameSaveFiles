@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rclone OAuth</title>
+</head>
+<body>
+  <h1>Rclone OAuth setup</h1>
+  <p>Personal configuration page.</p>
+</body>
+</html>
